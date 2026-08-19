@@ -22,6 +22,6 @@ This project demonstrates software development capabilities tailored for busines
 
 ### 📧 Contact & Freelance Inquiries
 Looking for custom Python desktop tools, web scrapers, or automation solutions?
-* **Email:** *your-email@example.com*
+* **Email:** mohammadalduj0511@gmail.com
 * **GitHub:** [My Profile](https://github.com)
 *
